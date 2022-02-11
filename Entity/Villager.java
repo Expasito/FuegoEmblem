@@ -5,7 +5,7 @@ public class Villager extends Entity {
 		this.x=x;
 		this.y=y;
 		this.name="Villager";
-		this.mvt=9;
+		this.mvt=4;
 		this.inf=true;
 		this.fly=false;
 	}
